@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UniversePlanets App</string>
+    <string name="planet_name">Planet Name</string>
+    <string name="Planet_Name">Planet Name</string>
+    <string name="_0_moons">0 Moons</string>
+    <string name="images_of_planets">images of planets</string>
+</resources>
